@@ -1,5 +1,3 @@
-<?php
-
 $countries = array( 
   array( "name" => "Albania", 
        "latitude" => "41.153332",
@@ -439,4 +437,3 @@ $countries = array(
 				'Vietnam'
 	
 	);
-?>
